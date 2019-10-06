@@ -1,8 +1,11 @@
 ASM Patch project template
 ==========================
 
-By Dirbaio
+Created by Dirbaio
 http://nsmbhd.net/
+
+Symbols.x made by newluigidev from
+https://github.com/newluigidev/Sarasaland-Advance
 
 ===========================
 
@@ -21,11 +24,6 @@ Use a recent version of NSMB Editor to compile and insert the code into the ROM.
 
 Included features:
 
-nonintendo.cpp - Makes the game skip the Nintendo boot screen (for faster testing!)
-debugscreen.s - Makes the debug screen show without entering the key combination
-ramviewer.cpp - Adds a RAM viewer function to the debug screen!
-keys.cpp - Adds functions for reading keys. (The ones from libnds DO NOT work)
-print.s - Stuff for printing to no$gba debugger / desmume console.
 nsmb.h - Defines several useful functions from the game. Not complete at all, I've just added stuff as I needed it.
 
 Enjoy!
